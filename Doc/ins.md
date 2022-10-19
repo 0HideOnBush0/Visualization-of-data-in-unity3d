@@ -4,7 +4,7 @@
 
 + `Echarts`  表格类型、格式类目全，可以参考其做数据展示（ [地址](https://echarts.apache.org/examples/zh/index.html)）
 
-![](C:\Users\ASUS\Desktop\Snipaste_2022-10-17_14-38-15.png)
+![](assets/Snipaste_2022-10-17_14-38-15.png)
 
 
 
@@ -24,9 +24,4 @@
 
 + `Customizable SciFi Holo Interface`  科幻风UI插件，带有动画效果，[资源商店地址](https://assetstore.unity.com/packages/2d/textures-materials/customizable-scifi-holo-interface-69794)
 
-
-
-
-
-
-
++ 
